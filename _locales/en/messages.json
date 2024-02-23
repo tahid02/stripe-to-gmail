@@ -1,0 +1,10 @@
+{
+  "extensionDescription": {
+    "description": "Extension description",
+    "message": "A Chrome extension displaying Stripe customer information right beside their emails in Gmail"
+  },
+  "extensionName": {
+    "description": "Extension name",
+    "message": "StripeToGmail"
+  }
+}

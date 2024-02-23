@@ -1,0 +1,1 @@
+import{j as o,c as t}from"../../../assets/js/client.CYxVQoYY.js";import"../../../assets/js/_commonjsHelpers.1J56E-h6.js";const r=()=>o.jsx("div",{className:"container",children:"Options"});function e(){const n=document.querySelector("#app-container");if(!n)throw new Error("Can not find #app-container");t(n).render(o.jsx(r,{}))}e();
